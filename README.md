@@ -1,13 +1,9 @@
 
-
 # Introduction
   
-
-This repository contains code and data for my article "[Graph or Grove? Ecosystem Services Valuation with Graph Machine Learning and Random Forest](https://medium.com/@dgg32/graph-or-grove-ecosystem-services-valuation-with-graph-machine-learning-and-random-forest-31d92f686396)". 
+This repository contains code and data for my article "[Graph or Grove? Ecosystem Services Valuation with Graph Machine Learning and Random Forest](https://medium.com/@dgg32/graph-or-grove-ecosystem-services-valuation-with-graph-machine-learning-and-random-forest-31d92f686396)".
 
 1. The Python ipynb scripts are for the data import and machine learning.
-
-  
 
 # Prerequisite
 
@@ -18,7 +14,8 @@ GDS
 Sklearn
 
 # Run
-1. Download the ESVD data as described in "[Graph or Grove? Ecosystem Services Valuation with Graph Machine Learning and Random Forest](https://medium.com/@dgg32/graph-or-grove-ecosystem-services-valuation-with-graph-machine-learning-and-random-forest-31d92f686396)". 
+
+1. Download the ESVD data as described in "[Graph or Grove? Ecosystem Services Valuation with Graph Machine Learning and Random Forest](https://medium.com/@dgg32/graph-or-grove-ecosystem-services-valuation-with-graph-machine-learning-and-random-forest-31d92f686396)".
   
 2. Install the necessary Python libraries
 
@@ -30,17 +27,10 @@ Sklearn
 
 6. Run the various graph machine learning algorithms with gds_fastrp.ipynb, gds_graphsage.ipynb, gds_hashgnn.ipynb, and gds_node2vec.ipynb. Their Cypher codes are also provided in the txt files.
 
-
 ## Authors
 
-  
-
-*  **Sixing Huang** - *Concept and Coding*
-
-  
+* **Sixing Huang** - *Concept and Coding*
 
 ## License
-
-  
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
